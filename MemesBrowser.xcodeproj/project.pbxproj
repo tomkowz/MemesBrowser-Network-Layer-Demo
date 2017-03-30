@@ -52,7 +52,7 @@
 		6DC11FAF1E8D50500061805D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6DC11FB21E8D50500061805D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6DC11FB41E8D50500061805D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6DC11FBA1E8D53590061805D /* MemeInfoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MemeInfoItem.swift; path = ../MemeInfoItem.swift; sourceTree = "<group>"; };
+		6DC11FBA1E8D53590061805D /* MemeInfoItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemeInfoItem.swift; sourceTree = "<group>"; };
 		6DC11FBC1E8D536A0061805D /* MemesDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemesDataSource.swift; sourceTree = "<group>"; };
 		6DC11FBE1E8D547B0061805D /* MemesInteractor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemesInteractor.swift; sourceTree = "<group>"; };
 		6DC11FCB1E8D582A0061805D /* BackendConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackendConfiguration.swift; sourceTree = "<group>"; };
@@ -180,8 +180,7 @@
 				6DC11FDE1E8D598B0061805D /* Items */,
 				6DD0E0301E8D5B3D00268A37 /* Resources */,
 			);
-			name = "Memes Backend";
-			path = Network;
+			path = "Memes Backend";
 			sourceTree = "<group>";
 		};
 		6DC11FDE1E8D598B0061805D /* Items */ = {
