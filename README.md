@@ -2,6 +2,6 @@ Simple project that uses a Network Layer architecture that I learned recently. P
 
 All base classes are placed in */Network* directory.
 
-Files for supporting a specific backend (Memes Backend in this case) are placed in */Memes Backend* directory
+Files for supporting a specific backend (Memes Backend in this case) are placed in */Memes Backend* directory.
 
-You can easily support many backend and endpoints.
+You can easily support many backends and endpoints.
